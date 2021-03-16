@@ -1,2 +1,1 @@
-# project-68-BUZZ-APP-BOTTOM-TAB-NAVIGATION
-project 68 BUZZ APP BOTTOM TAB NAVIGATION
+# class-68-bottom-navigation
